@@ -20,7 +20,7 @@ public class J307 {
  */
 
     static final String USER = "root";//ÓÃ»§Ãû
-    static final String PASS = "gyc19970215";//ÃÜÂë
+    static final String PASS = "gyc";//ÃÜÂë
  
     public static void main(String[] args) {
         Connection conn = null;

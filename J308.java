@@ -9,7 +9,7 @@ public class J308 {
 	 static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";  //cj为最新的
 	    static final String DB_URL = "jdbc:mysql://127.0.0.1:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC";
 	    static final String USER = "root";//用户名
-	    static final String PASS = "gyc19970215";//密码
+	    static final String PASS = "gyc";//密码
 	 
 	    public static void main(String[] args) {
 	        Connection conn = null;

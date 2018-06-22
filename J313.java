@@ -11,7 +11,7 @@ public class J313 {
     // MySQL数据库的连接用户名  
     public static final String DBUSER = "root" ;  
     // MySQL数据库的连接密码  
-    public static final String DBPASS = "gyc19970215" ;  
+    public static final String DBPASS = "gyc" ;  
     public static void main(String args[]) throws Exception{    // 所有异常抛出  
         Connection conn = null ;        // 数据库连接  
         PreparedStatement pstmt = null ;    // 数据库操作  

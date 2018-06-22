@@ -10,7 +10,7 @@ import java.util.Random;
 public class J318 {
 	private static String url = "jdbc:mysql://127.0.0.1:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static String user = "root";
-    private static String password = "gyc19970215";
+    private static String password = "gyc";
     public static void main(String args[]) throws Exception{
         Connection conn = null;
         PreparedStatement pstm =null;

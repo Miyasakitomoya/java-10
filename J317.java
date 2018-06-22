@@ -12,7 +12,7 @@ public class J317 {
 	 	public static final String DBDRIVER = "com.mysql.cj.jdbc.Driver" ;   
 	    public static final String DBURL = "jdbc:mysql://127.0.0.1:3306/user?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true" ;  
 	    public static final String DBUSER = "root" ;   
-	    public static final String DBPASS = "gyc19970215" ; 
+	    public static final String DBPASS = "gyc" ; 
 	    public static void main(String args[]) throws Exception{
 	    	Connection conn = null;
 	    	PreparedStatement pstm = null;
